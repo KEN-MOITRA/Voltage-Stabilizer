@@ -1,1 +1,2 @@
 # Voltage-Stabilizer
+Designed and implemented a voltage stabilizer using transformers, relays, and the PIC16F676 microcontroller, ensuring consistent and reliable performance, regulated input voltage ranges from 145V to 305V, delivering a stable 220V peak output, critical for protecting sensitive electronics. Incorporated a fail-safe mechanism to automatically disconnect the supply outside the operational range, preventing potential damage, and ensuring user safety.
